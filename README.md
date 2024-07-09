@@ -24,10 +24,13 @@ To facilitate training with limited computational resources, we used 128x128 pix
 
 ### Result Examples
 
-### Clustering:
 <p align="center">
-  <img src="Images/segmentation.png" alt="Mean_shift++" width="45%" />
-  <img src="Images/kmean_seg.png" alt="K_means" width="45%" />
+  <img src="VGG-16_Results/21.png" alt="1" width="45%" />
+  <img src="VGG-16_Results/8.png" alt="2" width="45%" />
+</p>  
+<p align="center">
+  <img src="VGG-16_Results/14.png" alt="4+" width="45%" />
+  <img src="VGG-16_Results/11.png" alt="4+" width="45%" />
 </p>
 
 
